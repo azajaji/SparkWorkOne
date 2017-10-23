@@ -1,0 +1,183 @@
+[0m[[0minfo[0m] [0mPackaging /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/lshtimeseries_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshDictionary$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshDictionary$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$weightedMinHash$1$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$weightedMinHash$1$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$set2WeightSet$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$set2WeightSet$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/core/SshRDD.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/core/SshRDD.class[0m
+[0m[[0mdebug[0m] [0m	org/apache[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/SshCfg.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/SshCfg.class[0m
+[0m[[0mdebug[0m] [0m	.DS_Store[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshParams$$anonfun$distData$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshParams$$anonfun$distData$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshParams$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshParams$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$FillDictionary$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$FillDictionary$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$getHdfsFileSizeMList$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$getHdfsFileSizeMList$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$genZero$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$genZero$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshParams$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshParams$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/SimpleApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$sketch$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$sketch$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/core[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/core[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$weightedMinHash$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$weightedMinHash$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$10.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$10.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$getHdfsFileNameList$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$getHdfsFileNameList$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshParams$$anonfun$distData$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshParams$$anonfun$distData$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig$$anonfun$getShingleLength$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig$$anonfun$getShingleLength$1.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$FillDictionary$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$FillDictionary$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$getHdfsFileNameList$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$getHdfsFileNameList$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig$.class[0m
+[0m[[0mdebug[0m] [0m	spark-env.sh[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/spark-env.sh[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$readConfigFile$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$readConfigFile$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$readConfigFile$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$readConfigFile$3.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$readConfigFile$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$readConfigFile$4.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig$$anonfun$distData$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig$$anonfun$distData$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	spark-defaults.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/spark-defaults.conf[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$nGram$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$nGram$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$euclideanDistance$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$euclideanDistance$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$weightedMinHash$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$weightedMinHash$1.class[0m
+[0m[[0mdebug[0m] [0m	log4j.properties[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/log4j.properties[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/AbsConfig.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/AbsConfig.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$org$apache$spark$edu$wpi$dsrg$LSHTimeSeries$utils$SshTransform$$dotProduct$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$org$apache$spark$edu$wpi$dsrg$LSHTimeSeries$utils$SshTransform$$dotProduct$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$org$apache$spark$edu$wpi$dsrg$LSHTimeSeries$utils$SshTransform$$argMinIndex$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$org$apache$spark$edu$wpi$dsrg$LSHTimeSeries$utils$SshTransform$$argMinIndex$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$weightedMinHash$1$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$weightedMinHash$1$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$weightedMinHash$1$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$weightedMinHash$1$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$stddevDouble$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$stddevDouble$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$weightedMinHash$1$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$weightedMinHash$1$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$writeLog$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$writeLog$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$getArrayBytesFromHdfs$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$getArrayBytesFromHdfs$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshDictionary.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshDictionary.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshParams.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshParams.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$org$apache$spark$edu$wpi$dsrg$LSHTimeSeries$utils$SshTransform$$argMinIndex$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$org$apache$spark$edu$wpi$dsrg$LSHTimeSeries$utils$SshTransform$$argMinIndex$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$getHdfsFileSizeMList$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$getHdfsFileSizeMList$1.class[0m
+[0m[[0mdebug[0m] [0m	org[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$nGram$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$nGram$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig$$anonfun$getLshRowNbr$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig$$anonfun$getLshRowNbr$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$stddev$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$stddev$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$getArrayBytesFromHdfs$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$getArrayBytesFromHdfs$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig$$anonfun$distData$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/configs/sshConfig$$anonfun$distData$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/core/SshRDD$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/core/SshRDD$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$removeHdfsFiles$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$removeHdfsFiles$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$meanDouble$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$meanDouble$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu[0m
+[0m[[0mdebug[0m] [0m	org/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/.DS_Store[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$readConfigFile$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$readConfigFile$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$mean$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/Util$$anonfun$mean$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/org/apache/spark/edu/wpi/dsrg/LSHTimeSeries/utils/SshTransform$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/src/main/resources/log4j.properties,/Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/log4j.properties)[0m
+[0m[[0mdebug[0m] [0m	(/Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/src/main/resources/spark-defaults.conf,/Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/spark-defaults.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/src/main/resources/spark-env.sh,/Users/ajaji/Documents/PhD/Fall 2017/Research/Code/LSHTimeSeries/target/scala-2.11/classes/spark-env.sh)[0m
